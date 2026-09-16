@@ -1,6 +1,7 @@
 # FDNR
+This repository contains the official implementation of the following Pacific Graphics 2026 paper:
 
-This repository contains the implementation of **FDNR**, a frequency decomposition INR framework for scientific volume data representation.
+**A Frequency-Decomposed Residual Learning Framework for Volume Data Neural Representation**
 
 ## Repository Structure
 
