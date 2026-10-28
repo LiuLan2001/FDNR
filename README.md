@@ -75,6 +75,13 @@ For evaluation or inference only:
 python OURS.py --dataset vortex --mode eval
 ```
 
+
+## Training Recommendations
+
+> [!IMPORTANT]
+> For large-scale data compression (e.g., datasets exceeding 10 GB), the increased number of parameter updates per epoch may lead to unstable training at higher learning rates. Therefore, we recommend reducing the learning rate from `5e-5` to `2e-5` to improve training stability.
+
+
 ## Supported Baselines
 
 The following baseline methods are implemented in `INR_base/model.py`:
