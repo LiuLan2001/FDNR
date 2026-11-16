@@ -3,6 +3,8 @@ This repository contains the official implementation of the following Pacific Gr
 
 **A Frequency-Decomposed Residual Learning Framework for Volume Data Neural Representation**
 
+📄 Paper: [https://onlinelibrary.wiley.com/doi/10.1111/cgf.70473](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70618)
+
 ## Repository Structure
 
 ```text
